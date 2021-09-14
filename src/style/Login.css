@@ -1,0 +1,19 @@
+.loginWrapper {
+    height: 100vh;
+    background-color: aquamarine;
+}
+
+.loginContainer {
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginForm {
+    width: 400px;
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+}

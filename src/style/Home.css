@@ -1,0 +1,14 @@
+.navbarWrapper {
+    padding: 20px 10px;
+}
+
+.homeWrapper {
+    height: 100vh;
+    background-color: aquamarine;
+}
+
+.memberSocialLink {
+    margin-top: 10px;
+    font-size: 25px;
+    margin: 5px;
+}
